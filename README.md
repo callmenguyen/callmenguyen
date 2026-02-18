@@ -1,19 +1,25 @@
-<!-- QUOTE_START -->
-<div align="center">
-
-| | |
-| :---: | :---: |
-| **🌟 Daily Wisdom 🌟** | |
-| <br/>**_“If I have been able to see further, it was only because I stood on the shoulders of giants.”_**<br/><br/>| |
-| | _🧠 Isaac Newton 🧠_ |
-
-</div>
-<!-- QUOTE_END -->
 
 <div align="center">
   <h3>AI-focused Software Engineer</h3>
   <p>Building practical AI systems with strong backend foundations.</p>
 </div>
+
+<!-- QUOTE_START -->
+<div align="center">
+
+<br/>
+
+### *“I have hardly ever known a mathematician who was capable of reasoning.”*
+
+<br/>
+
+— *Plato* —
+
+<br/>
+
+</div>
+<!-- QUOTE_END -->
+
 
 <br/>
 

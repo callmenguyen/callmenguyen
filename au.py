@@ -89,28 +89,26 @@ def get_next_quote_index(great_list_path, total_quotes):
         return rd.randint(0, total_quotes - 1) if total_quotes > 0 else -1
 
 def format_quote_for_markdown(author, quote):
-    """Formats the quote and author for the README using a centered table."""
+    """Formats the quote and author for the README using a classic, centered style without icons."""
     
-    # Define emojis for decoration
-    quote_emoji = "🌟" 
-    author_emoji = "🧠"
-
-    # Create a centered table structure
-    # Use <blockquote> for a distinct background if supported, or just a table for framing.
-    # A table with a single cell often looks like a frame on GitHub.
-    
+    # Create a centered structure using <br> for spacing
+    # Classic look: Italicized quote, slightly larger font, simple separation for author.
     formatted_content = f"""
 <div align="center">
 
-| | |
-| :---: | :---: |
-| **{quote_emoji} Daily Wisdom {quote_emoji}** | |
-| <br/>**_“{quote}”_**<br/><br/>| |
-| | _{author_emoji} {author} {author_emoji}_ |
+<br/>
+
+### *“{quote}”*
+
+<br/>
+
+— *{author}* —
+
+<br/>
 
 </div>
 """
-    # Clean up multiple newlines to look neat
+    # Clean up multiple newlines to look neat, though f-string handles it well.
     return f"{QUOTE_START_MARKER}{formatted_content}{QUOTE_END_MARKER}"
 
 def update_readme(readme_path, new_content):
