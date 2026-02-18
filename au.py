@@ -89,25 +89,29 @@ def get_next_quote_index(great_list_path, total_quotes):
         return rd.randint(0, total_quotes - 1) if total_quotes > 0 else -1
 
 def format_quote_for_markdown(author, quote):
-    """Formats the quote and author for the README."""
-    # Use HTML entities for spaces to ensure alignment
-    formatted_quote = f'*“{quote}”*'.replace(' ', '&nbsp;')
-    formatted_author = f'*--{author}--*'.replace(' ', '&nbsp;')
+    """Formats the quote and author for the README using a centered table."""
     
-    # Center align using string padding (approximate centering for raw text view, mainly for consistency with old script)
-    # The old script used .center(117), preserving that style.
-    centered_quote = formatted_quote.center(117, '\u00A0') # using non-breaking space for padding if we want exact char count but standard space is likely what .center does. 
-    # Actually, the original used normal .center which aligns with spaces, then replaced spaces with &nbsp;
-    # Let's replicate exact behavior:
-    
-    raw_quote_centered = f'*“{quote}”*'.center(117)
-    raw_author_centered = f'*--{author}--*'.center(117)
+    # Define emojis for decoration
+    quote_emoji = "🌟" 
+    author_emoji = "🧠"
 
-    # Encode spaces to &nbsp;
-    final_quote = raw_quote_centered.replace(' ', '&nbsp;')
-    final_author = raw_author_centered.replace(' ', '&nbsp;')
+    # Create a centered table structure
+    # Use <blockquote> for a distinct background if supported, or just a table for framing.
+    # A table with a single cell often looks like a frame on GitHub.
     
-    return f"{QUOTE_START_MARKER}\n{final_quote}\n\n\n{final_author}\n{QUOTE_END_MARKER}"
+    formatted_content = f"""
+<div align="center">
+
+| | |
+| :---: | :---: |
+| **{quote_emoji} Daily Wisdom {quote_emoji}** | |
+| <br/>**_“{quote}”_**<br/><br/>| |
+| | _{author_emoji} {author} {author_emoji}_ |
+
+</div>
+"""
+    # Clean up multiple newlines to look neat
+    return f"{QUOTE_START_MARKER}{formatted_content}{QUOTE_END_MARKER}"
 
 def update_readme(readme_path, new_content):
     """Updates the README file with the new quote, preserving other content."""

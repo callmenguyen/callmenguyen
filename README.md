@@ -1,8 +1,13 @@
 <!-- QUOTE_START -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*““The&nbsp;study&nbsp;of&nbsp;mathematics,&nbsp;like&nbsp;the&nbsp;Nile,&nbsp;begins&nbsp;in&nbsp;minuteness&nbsp;but&nbsp;ends&nbsp;in&nbsp;magnificence.””*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
 
+| | |
+| :---: | :---: |
+| **🌟 Daily Wisdom 🌟** | |
+| <br/>**_“If I have been able to see further, it was only because I stood on the shoulders of giants.”_**<br/><br/>| |
+| | _🧠 Isaac Newton 🧠_ |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*--Charles&nbsp;Caleb&nbsp;Colton--*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 <!-- QUOTE_END -->
 
 <div align="center">
@@ -44,11 +49,6 @@ AI-focused software engineering student with hands-on experience in computer vis
 *   **Teacher Mode:** Implemented a teacher mode for journal enrichment via Gemini API.
 *   **Orchestration:** Built a custom orchestration pipeline for autonomous action execution.
 
-## 🏫 Education
-
-*   **Ho Chi Minh City University of Technology (Bach Khoa)**
-    *   **GPA:** 3.59 / 4.0
-    *   **Relevant Coursework:** Probability & Statistics (4.0), Data Structures (4.0), Algorithms (3.5), Linear Algebra (3.5)
 
 ---
 <div align="center">
