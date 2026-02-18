@@ -14,11 +14,11 @@
 
 <br/>
 
-### *““The pure mathematician, like the musician, is a free creator of his world of ordered beauty.””*
+### “Where there is matter, there is geometry.”
 
 <br/>
 
-— *Bertrand Russell* —
+— *Johannes Kepler* —
 
 <br/>
 

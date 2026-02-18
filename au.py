@@ -109,7 +109,7 @@ def format_quote_for_markdown(author, quote):
 
 <br/>
 
-### *“{quote}”*
+### “{quote}”
 
 <br/>
 
