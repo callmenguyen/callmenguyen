@@ -92,8 +92,10 @@ def format_quote_for_markdown(author, quote):
     """Formats the quote and author with specific star separators."""
     
     # Define separators
-    top_separator = "<hr>*******<hr>"
-    bottom_separator = "<hr>*****<hr>"
+    # Top: ******* followed by <hr>
+    top_separator =f"*******<br><hr>"
+    # Bottom: <hr> followed by *****
+    bottom_separator = f"<hr><br>*****"
 
     # Create a centered structure
     # Quote is italicized only (no bold), author is italicized
@@ -111,11 +113,11 @@ def format_quote_for_markdown(author, quote):
 
 <br/>
 
-{bottom_separator}
+— *{author}* —
 
 <br/>
 
-— *{author}* —
+{bottom_separator}
 
 <br/>
 <br/>

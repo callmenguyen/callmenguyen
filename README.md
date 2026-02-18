@@ -10,19 +10,19 @@
 <br/>
 <br/>
 
-<hr>*******<hr>
+*******<br><hr>
 
 <br/>
 
-### *““There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.””*
+### *““The pure mathematician, like the musician, is a free creator of his world of ordered beauty.””*
 
 <br/>
 
-<hr>*****<hr>
+— *Bertrand Russell* —
 
 <br/>
 
-— *Raoul Bott* —
+<hr><br>*****
 
 <br/>
 <br/>
