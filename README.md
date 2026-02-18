@@ -14,11 +14,11 @@
 
 <br/>
 
-### “Where there is matter, there is geometry.”
+*“Give me a place to stand, and I will move the earth.”*
 
 <br/>
 
-— *Johannes Kepler* —
+— *Archimedes* —
 
 <br/>
 
