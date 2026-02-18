@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>AI-focused Software Engineer</h3>
+  <h1><b>AI-focused Software Engineer</b></h1>
   <p>Building practical AI systems with strong backend foundations.</p>
 </div>
 
@@ -8,13 +8,23 @@
 <div align="center">
 
 <br/>
+<br/>
 
-### *“I have hardly ever known a mathematician who was capable of reasoning.”*
+<hr>*******<hr>
 
 <br/>
 
-— *Plato* —
+### *““There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.””*
 
+<br/>
+
+<hr>*****<hr>
+
+<br/>
+
+— *Raoul Bott* —
+
+<br/>
 <br/>
 
 </div>

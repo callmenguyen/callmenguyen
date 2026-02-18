@@ -89,12 +89,21 @@ def get_next_quote_index(great_list_path, total_quotes):
         return rd.randint(0, total_quotes - 1) if total_quotes > 0 else -1
 
 def format_quote_for_markdown(author, quote):
-    """Formats the quote and author for the README using a classic, centered style without icons."""
+    """Formats the quote and author with specific star separators."""
     
-    # Create a centered structure using <br> for spacing
-    # Classic look: Italicized quote, slightly larger font, simple separation for author.
+    # Define separators
+    top_separator = "<hr>*******<hr>"
+    bottom_separator = "<hr>*****<hr>"
+
+    # Create a centered structure
+    # Quote is italicized only (no bold), author is italicized
     formatted_content = f"""
 <div align="center">
+
+<br/>
+<br/>
+
+{top_separator}
 
 <br/>
 
@@ -102,13 +111,17 @@ def format_quote_for_markdown(author, quote):
 
 <br/>
 
+{bottom_separator}
+
+<br/>
+
 — *{author}* —
 
+<br/>
 <br/>
 
 </div>
 """
-    # Clean up multiple newlines to look neat, though f-string handles it well.
     return f"{QUOTE_START_MARKER}{formatted_content}{QUOTE_END_MARKER}"
 
 def update_readme(readme_path, new_content):
