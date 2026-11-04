@@ -5,8 +5,11 @@
 ## Profile-link: https://www.github.con/blitzkrieg-jvonngu-foo                           ##
 ###########################################################################################
 
+import html
 import random as rd
 import re
+import textwrap
+from urllib.parse import urlencode
 from pathlib import Path
 
 # Constants
@@ -88,38 +91,43 @@ def get_next_quote_index(great_list_path, total_quotes):
         print(f"Error managing great_list: {e}")
         return rd.randint(0, total_quotes - 1) if total_quotes > 0 else -1
 
-def format_quote_for_markdown(author, quote):
-    """Formats the quote and author with horizontal rule separators."""
-    
-    # Define separators
-    # Top: horizontal rule
-    top_separator = "<hr>"
-    # Bottom: horizontal rule
-    bottom_separator = "<hr>"
+def balanced_wrap(text, max_width):
+    """Wraps text into the fewest lines that fit max_width, with line lengths as even as possible."""
+    n_lines = len(textwrap.wrap(text, width=max_width))
+    width = -(-len(text) // n_lines)
+    while True:
+        lines = textwrap.wrap(text, width=width)
+        if len(lines) <= n_lines:
+            return lines
+        width += 1
 
-    # Create a centered structure
-    # Quote is italicized only (no bold), author is italicized
+def format_quote_for_markdown(author, quote):
+    """Renders the quote as an SVG (Cormorant Garamond, gold) with light/dark variants."""
+    quote = quote.strip().strip('"\'\u201c\u201d\u2018\u2019').strip()
+    text = f"\u201c{quote}\u201d".replace(";", ",")
+    lines = balanced_wrap(text, max_width=56)
+    lines.append(f"\u2014 {author} \u2014".replace(";", ","))
+
+    def svg_url(color):
+        params = {
+            "font": "Cormorant Garamond", "weight": 500, "size": 28,
+            "duration": 2500, "pause": 400, "color": color,
+            "center": "true", "vCenter": "true", "multiline": "true", "repeat": "false",
+            "width": 760, "height": 40 * len(lines) + 20, "lines": ";".join(lines),
+        }
+        return "https://readme-typing-svg.demolab.com/?" + urlencode(params)
+
+    alt = html.escape(f"\u201c{quote}\u201d \u2014 {author}", quote=True)
     formatted_content = f"""
 <div align="center">
 
 <br/>
-<br/>
 
-{top_separator}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="{html.escape(svg_url('E6C07B'))}">
+  <img alt="{alt}" src="{html.escape(svg_url('8A6D3B'))}">
+</picture>
 
-<br/>
-
-*“{quote}”*
-
-<br/>
-
-— *{author}* —
-
-<br/>
-
-{bottom_separator}
-
-<br/>
 <br/>
 
 </div>
