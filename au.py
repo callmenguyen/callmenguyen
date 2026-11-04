@@ -89,13 +89,13 @@ def get_next_quote_index(great_list_path, total_quotes):
         return rd.randint(0, total_quotes - 1) if total_quotes > 0 else -1
 
 def format_quote_for_markdown(author, quote):
-    """Formats the quote and author with specific star separators."""
+    """Formats the quote and author with horizontal rule separators."""
     
     # Define separators
-    # Top: ******* followed by <hr>
-    top_separator =f"*******<br><hr>"
-    # Bottom: <hr> followed by *****
-    bottom_separator = f"<hr><br>*****"
+    # Top: horizontal rule
+    top_separator = "<hr>"
+    # Bottom: horizontal rule
+    bottom_separator = "<hr>"
 
     # Create a centered structure
     # Quote is italicized only (no bold), author is italicized

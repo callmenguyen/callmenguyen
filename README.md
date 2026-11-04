@@ -18,36 +18,135 @@
                 <br>
                 「 while exploring methods to advance model capability and reasoning 」
                 <br>
-                <br>
         </samp>
         <!-- Technologies -->
-        <!-- Python -->
-        <a href="https://github.com/antialberteinstein?tab=repositories&language=python" target="_blank"><img alt="Python"
+        <!-- Languages -->
+        <br><samp>Languages</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
-        <!-- C/C++ -->
-        <a href="https://github.com/antialberteinstein?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C/C++"
-                        src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="C"
+                        src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black">
         </a>
-        <!-- Julia -->
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>
         <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Julia"
                         src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">
         </a>
-        <!-- Java -->
-        <a href="https://github.com/antialberteinstein?tab=repositories&language=java" target="_blank"><img alt="Java"
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Java"
                         src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=OpenJDK&logoColor=white">
         </a>
-        <!-- LangChain -->
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Rust"
+                        src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white">
+        </a>
+        <br>
+        <!-- AI / ML -->
+        <br><samp>AI / ML</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Supervised Learning"
+                        src="https://img.shields.io/badge/-Supervised%20Learning-FF6F00?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Unsupervised Learning"
+                        src="https://img.shields.io/badge/-Unsupervised%20Learning-FF6F00?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Reinforcement Learning"
+                        src="https://img.shields.io/badge/-Reinforcement%20Learning-FF6F00?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Hyperparameter Tuning"
+                        src="https://img.shields.io/badge/-Hyperparameter%20Tuning-FF6F00?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Model Selection &amp; Evaluation"
+                        src="https://img.shields.io/badge/-Model%20Selection%20%26%20Evaluation-FF6F00?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Cross-Validation"
+                        src="https://img.shields.io/badge/-Cross--Validation-FF6F00?style=flat-square">
+        </a>
+        <br>
+        <!-- Deep & Representation Learning -->
+        <br><samp>Deep &amp; Representation Learning</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Feedforward Neural Networks"
+                        src="https://img.shields.io/badge/-Feedforward%20Neural%20Networks-8E44AD?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Graph Neural Networks"
+                        src="https://img.shields.io/badge/-Graph%20Neural%20Networks-8E44AD?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Dense Embedding &amp; Similarity"
+                        src="https://img.shields.io/badge/-Dense%20Embedding%20%26%20Similarity-8E44AD?style=flat-square">
+        </a>
+        <br>
+        <!-- Generative & Probabilistic Models -->
+        <br><samp>Generative &amp; Probabilistic Models</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Diffusion Models"
+                        src="https://img.shields.io/badge/-Diffusion%20Models-C0392B?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Restricted Boltzmann Machines"
+                        src="https://img.shields.io/badge/-Restricted%20Boltzmann%20Machines-C0392B?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Transformers"
+                        src="https://img.shields.io/badge/-Transformers-C0392B?style=flat-square">
+        </a>
+        <br>
+        <!-- LLM Systems & AI Agents -->
+        <br><samp>LLM Systems &amp; AI Agents</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="llama.cpp"
+                        src="https://img.shields.io/badge/-llama.cpp-0D1117?style=flat-square">
+        </a>
         <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="LangChain"
                         src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white">
         </a>
-        <!-- llama.cpp -->
-        <a href="https://github.com/antialberteinstein/ChatToExplore" target="_blank"><img alt="llama.cpp"
-                        src="https://img.shields.io/badge/-llama.cpp-0D1117?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Prompt Engineering"
+                        src="https://img.shields.io/badge/-Prompt%20Engineering-2E7D32?style=flat-square">
         </a>
-        <!-- Flask -->
-        <a href="https://github.com/antialberteinstein/PBL5" target="_blank"><img alt="Flask"
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="LoRA Fine-tuning"
+                        src="https://img.shields.io/badge/-LoRA%20Fine--tuning-2E7D32?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Model Orchestration"
+                        src="https://img.shields.io/badge/-Model%20Orchestration-2E7D32?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="RAG"
+                        src="https://img.shields.io/badge/-RAG-2E7D32?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Quantization"
+                        src="https://img.shields.io/badge/-Quantization-2E7D32?style=flat-square">
+        </a>
+        <br>
+        <!-- Mathematics for AI -->
+        <br><samp>Mathematics for AI</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Non-convex Optimization"
+                        src="https://img.shields.io/badge/-Non--convex%20Optimization-1565C0?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Gradient Descent"
+                        src="https://img.shields.io/badge/-Gradient%20Descent-1565C0?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="L1/L2 Regularization"
+                        src="https://img.shields.io/badge/-L1%2FL2%20Regularization-1565C0?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Matrix Decomposition"
+                        src="https://img.shields.io/badge/-Matrix%20Decomposition-1565C0?style=flat-square">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Probability &amp; Statistics"
+                        src="https://img.shields.io/badge/-Probability%20%26%20Statistics-1565C0?style=flat-square">
+        </a>
+        <br>
+        <!-- Tools & Platforms -->
+        <br><samp>Tools &amp; Platforms</samp><br>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Flask"
                         src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Docker"
+                        src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Kubernetes"
+                        src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Firebase"
+                        src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="React Native"
+                        src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=React&logoColor=61DAFB">
+        </a>
+        <a href="https://github.com/antialberteinstein?tab=repositories" target="_blank"><img alt="Neovim"
+                        src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white">
         </a>
 </p>
 
@@ -57,7 +156,7 @@
 <br/>
 <br/>
 
-*******<br><hr>
+<hr>
 
 <br/>
 
@@ -69,7 +168,7 @@
 
 <br/>
 
-<hr><br>*****
+<hr>
 
 <br/>
 <br/>
@@ -80,30 +179,7 @@
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
-    <br>
-
-<div align="left">
-
-#### 👨‍💻 About Me
-
-AI-focused software engineering student with hands-on experience in computer vision, LLM system integration, and memory-augmented agent design.
-
-I am particularly interested in representation learning, optimization in deep models, and building efficient AI systems that balance reasoning capability with practical constraints.
-
-#### 🛠 Technical Skills
-
-| Domain | Skills |
-|:---:|:---|
-| **Programming** | Python (primary), C/C++ (excellent), Julia (preferred), Java (hated but really good at it) |
-| **AI / ML** | Supervised & Unsupervised Learning, Reinforcement Learning, Hyperparameters tuning, Model selection & evaluation, Cross-Validation variants |
-| **Deep & Representation Learning** | Feedforward Neural Networks, Graph Neural Networks, Dense embedding & similarity systems |
-| **Generative & Probabilistic Models** | Diffusion Models, Restricted Boltzmann Machines, Transformer architectures |
-| **LLM Systems & AI Agents** | llama.cpp (local inference), Prompt engineering, Parameter-efficient fine-tuning (LoRA), Model orchestration, Agent frameworks (Langchain), Retrieval-Augmented Generation (RAG), Quantization |
-| **Mathematics for AI** | Non-convex optimization, Gradient Descent variants, L1/L2 Regularization, Matrix decomposition, Probability & Statistical Modeling |
-
-</div>
-
-<p align="center">
+    <p align="center">
         <br>
         <!-- Activity Widget -->
         <img alt="Nhat Nguyen's GitHub Streak"
@@ -131,50 +207,3 @@ I am particularly interested in representation learning, optimization in deep mo
         "No one is perfect, but nothing is useless."
     </p>
 </samp>
-
-<!-- Featured Repositories -->
-#### 🚀 Featured
-
-<p align="center">
-<a href="https://github.com/antialberteinstein/PBL5">
-<img width='49%' align="center" alt="PBL5" src="https://opengraph.githubassets.com/1/antialberteinstein/PBL5" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/antialberteinstein/ChatToExplore">
-<img width='49%' align="center" alt="ChatToExplore" src="https://opengraph.githubassets.com/1/antialberteinstein/ChatToExplore" />
-</a>
-</p>
-
-<details>
-<summary><b>1. <a href="https://github.com/antialberteinstein/PBL5">IoT Face Recognition Attendance System (AI Module)</a></b></summary>
-<br>
-
-*Note: This project is currently in progress. The description will be expanded as development continues.*
-
-*   **Face Recognition Pipeline:** Developed a highly accurate face recognition pipeline utilizing InsightFace embeddings.
-*   **Classification:** Implemented adaptive online classification—orchestrating multiple ML models—with hyperparameter tuning to maximize **precision**.
-*   **Integration:** Exposed a robust inference API via Flask for seamless integration into IoT hardware systems.
-
-</details>
-
-<details>
-<summary><b>2. <a href="https://github.com/antialberteinstein/ChatToExplore">ChatToExplore (Java + llama.cpp)</a></b></summary>
-<br>
-
-*   **Overview:** A web application that allows users to discover Vietnamese historical figures through an interactive timeline UI. Users can chat with an embedded AI assistant to learn about these figures, and even ask the bot to autonomously research and add new figures to the timeline.
-*   **Local Inference:** Integrated local LLM inference directly into a Java Servlet backend.
-*   **Async Architecture:** Designed a robust job queue for long-running AI tasks to ensure computation persists beyond standard HTTP session lifecycles. Background processes run independently until completion, allowing users to safely close their browsers or log out without interrupting the task.
-*   **Agent Logic:** Developed a custom, lightweight agent framework from scratch—without relying on heavy external libraries. This agent supports dynamic actions such as web searching and autonomous data saving.
-
-</details>
-
-<details>
-<summary><b>3. <a href="https://github.com/antialberteinstein/HybridAIAgent">Hybrid AI Agent (Python)</a></b></summary>
-<br>
-
-*   **Overview:** A custom agent framework (conceptually similar to LangChain) designed to significantly enhance the accuracy and multi-step decision-making capabilities of Small Language Models (SLMs).
-*   **Background:** SLMs often struggle with complex decision-making, frequently resulting in hallucinations or logical errors. To address this, rather than blindly leaving action generation solely to a "next-word prediction machine", I augmented this traditional approach with lightweight Machine Learning algorithms to filter and guide the action selection process. This keeps the system highly efficient while allowing the SLM to make the final, informed determination.
-*   **Mechanism:** Think of the SLM as a football referee who occasionally makes mistakes without assistance. In this architecture, the ML algorithms act as a Video Assistant Referee (VAR). The framework maintains a "notebook" of available actions (acting as a few-shot prompt). Since SLMs struggle to reliably search large contexts, the ML algorithms pre-filter this notebook to narrow down the action space, making it much easier for the SLM to select the correct action. This drastically reduces hallucinations. I also implemented supplementary techniques to boost accuracy, such as dynamically scaling the number of few-shot examples based on ML confidence scores and randomly re-injecting historical successes.
-*   **Teacher Mode:** To dynamically expand the framework's capabilities, users can toggle "Teacher Mode," where a stronger, external LLM generates and appends new action knowledge to the system's notebook.
-
-</details>
