@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CGive+me+a+place+to+stand%2C+and+I+will+move+the+earth.%E2%80%9D%3B%E2%80%94+Archimedes+%E2%80%94">
-  <img alt="“Give me a place to stand, and I will move the earth.” — Archimedes" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CGive+me+a+place+to+stand%2C+and+I+will+move+the+earth.%E2%80%9D%3B%E2%80%94+Archimedes+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+are+two+ways+to+do+great+mathematics.+The+first%3Bis+to+be+smarter+than+everybody+else.+The+second+way+is%3Bto+be+stupider+than+everybody+else+%E2%80%94+but+persistent.%E2%80%9D%3B%E2%80%94+Raoul+Bott+%E2%80%94">
+  <img alt="“There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.” — Raoul Bott" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+are+two+ways+to+do+great+mathematics.+The+first%3Bis+to+be+smarter+than+everybody+else.+The+second+way+is%3Bto+be+stupider+than+everybody+else+%E2%80%94+but+persistent.%E2%80%9D%3B%E2%80%94+Raoul+Bott+%E2%80%94">
 </picture>
 
 <br/>
