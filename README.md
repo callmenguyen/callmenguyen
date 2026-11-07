@@ -1,10 +1,10 @@
 <!-- Profile Views Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=antialberteinstein&color=0e75b6&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=callmenguyen&color=0e75b6&style=flat-square&label=Profile+views)
 
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://antialberteinstein.github.io/">Nhat Nguyen</a></b>
+                <b><a target="_blank" href="https://callmenguyen.github.io/">Nhat Nguyen</a></b>
         </samp>
 </h3>
 <br>
@@ -88,16 +88,16 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Nhat Nguyen's GitHub Streak"
-                src="https://streak-stats.demolab.com/?user=antialberteinstein&theme=radical&hide_border=true" />
+                src="https://streak-stats.demolab.com/?user=callmenguyen&theme=radical&hide_border=true" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Homepage -->
-        <a href="https://antialberteinstein.github.io/" target="_blank"><img alt="Homepage"
+        <a href="https://callmenguyen.github.io/" target="_blank"><img alt="Homepage"
                 src="https://img.shields.io/badge/-Homepage-02D892?style=flat-square&logo=GitHubPages&logoColor=white">
         </a>
         <!-- GitHub -->
-        <a href="https://github.com/antialberteinstein" target="_blank"><img alt="GitHub"
+        <a href="https://github.com/callmenguyen" target="_blank"><img alt="GitHub"
                 src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
         </a>
     </p>
