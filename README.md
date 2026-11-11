@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CThe+pure+mathematician%2C+like+the+musician%2C+is%3Ba+free+creator+of+his+world+of+ordered+beauty.%E2%80%9D%3B%E2%80%94+Bertrand+Russell+%E2%80%94">
-  <img alt="“The pure mathematician, like the musician, is a free creator of his world of ordered beauty.” — Bertrand Russell" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CThe+pure+mathematician%2C+like+the+musician%2C+is%3Ba+free+creator+of+his+world+of+ordered+beauty.%E2%80%9D%3B%E2%80%94+Bertrand+Russell+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CIf+I+have+been+able+to+see+further%2C+it+was+only%3Bbecause+I+stood+on+the+shoulders+of+giants.%E2%80%9D%3B%E2%80%94+Isaac+Newton+%E2%80%94">
+  <img alt="“If I have been able to see further, it was only because I stood on the shoulders of giants.” — Isaac Newton" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CIf+I+have+been+able+to+see+further%2C+it+was+only%3Bbecause+I+stood+on+the+shoulders+of+giants.%E2%80%9D%3B%E2%80%94+Isaac+Newton+%E2%80%94">
 </picture>
 
 <br/>
