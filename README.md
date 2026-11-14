@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CTruth+is+ever+to+be+found+in+the+simplicity%2C+and%3Bnot+in+the+multiplicity+and+confusion+of+things.%E2%80%9D%3B%E2%80%94+Isaac+Newton+%E2%80%94">
-  <img alt="“Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.” — Isaac Newton" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CTruth+is+ever+to+be+found+in+the+simplicity%2C+and%3Bnot+in+the+multiplicity+and+confusion+of+things.%E2%80%9D%3B%E2%80%94+Isaac+Newton+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CThe+study+of+mathematics%2C+like+the+Nile%2C%3Bbegins+in+minuteness+but+ends+in+magnificence.%E2%80%9D%3B%E2%80%94+Charles+Caleb+Colton+%E2%80%94">
+  <img alt="“The study of mathematics, like the Nile, begins in minuteness but ends in magnificence.” — Charles Caleb Colton" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CThe+study+of+mathematics%2C+like+the+Nile%2C%3Bbegins+in+minuteness+but+ends+in+magnificence.%E2%80%9D%3B%E2%80%94+Charles+Caleb+Colton+%E2%80%94">
 </picture>
 
 <br/>
