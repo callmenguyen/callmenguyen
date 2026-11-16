@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CPerfect+numbers+like+perfect+men+are+very+rare.%E2%80%9D%3B%E2%80%94+Rene+Descartes+%E2%80%94">
-  <img alt="“Perfect numbers like perfect men are very rare.” — Rene Descartes" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CPerfect+numbers+like+perfect+men+are+very+rare.%E2%80%9D%3B%E2%80%94+Rene+Descartes+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CWhat+is+mathematics%3F+It+is+only+a+systematic%3Beffort+of+solving+puzzles+posed+by+nature.%E2%80%9D%3B%E2%80%94+Shakuntala+Devi+%E2%80%94">
+  <img alt="“What is mathematics? It is only a systematic effort of solving puzzles posed by nature.” — Shakuntala Devi" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CWhat+is+mathematics%3F+It+is+only+a+systematic%3Beffort+of+solving+puzzles+posed+by+nature.%E2%80%9D%3B%E2%80%94+Shakuntala+Devi+%E2%80%94">
 </picture>
 
 <br/>
