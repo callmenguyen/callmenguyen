@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+is+no+branch+of+mathematics%2C+however%3Babstract%2C+which+may+not+some+day+be+applied%3Bto+phenomena+of+the+real+world.%E2%80%9D%3B%E2%80%94+Nikolai+Lobachevsky+%E2%80%94">
-  <img alt="“There is no branch of mathematics, however abstract, which may not some day be applied to phenomena of the real world.” — Nikolai Lobachevsky" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+is+no+branch+of+mathematics%2C+however%3Babstract%2C+which+may+not+some+day+be+applied%3Bto+phenomena+of+the+real+world.%E2%80%9D%3B%E2%80%94+Nikolai+Lobachevsky+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CIt+is+not+certain+that+everything+is+uncertain.%E2%80%9D%3B%E2%80%94+Blaise+Pascal+%E2%80%94">
+  <img alt="“It is not certain that everything is uncertain.” — Blaise Pascal" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CIt+is+not+certain+that+everything+is+uncertain.%E2%80%9D%3B%E2%80%94+Blaise+Pascal+%E2%80%94">
 </picture>
 
 <br/>
