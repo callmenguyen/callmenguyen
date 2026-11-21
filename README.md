@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CIf+people+do+not+believe+that+mathematics%3Bis+simple%2C+it+is+only+because+they+do+not%3Brealize+how+complicated+life+is.%E2%80%9D%3B%E2%80%94+John+von+Neumann+%E2%80%94">
-  <img alt="“If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.” — John von Neumann" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CIf+people+do+not+believe+that+mathematics%3Bis+simple%2C+it+is+only+because+they+do+not%3Brealize+how+complicated+life+is.%E2%80%9D%3B%E2%80%94+John+von+Neumann+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CTo+me%2C+mathematics%2C+computer+science%2C+and+the+arts+are%3Binsanely+related.+They%E2%80%99re+all+creative+expressions.%E2%80%9D%3B%E2%80%94+Sebastian+Thrun+%E2%80%94">
+  <img alt="“To me, mathematics, computer science, and the arts are insanely related. They’re all creative expressions.” — Sebastian Thrun" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=140&amp;lines=%E2%80%9CTo+me%2C+mathematics%2C+computer+science%2C+and+the+arts+are%3Binsanely+related.+They%E2%80%99re+all+creative+expressions.%E2%80%9D%3B%E2%80%94+Sebastian+Thrun+%E2%80%94">
 </picture>
 
 <br/>
