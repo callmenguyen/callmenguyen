@@ -72,8 +72,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+will+always+be+science%2C%3Bengineering%2C+and+technology.+And+there%3Bwill+always%2C+always+be+mathematics.%E2%80%9D%3B%E2%80%94+Katherine+Johnson+%E2%80%94">
-  <img alt="“There will always be science, engineering, and technology. And there will always, always be mathematics.” — Katherine Johnson" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=180&amp;lines=%E2%80%9CThere+will+always+be+science%2C%3Bengineering%2C+and+technology.+And+there%3Bwill+always%2C+always+be+mathematics.%E2%80%9D%3B%E2%80%94+Katherine+Johnson+%E2%80%94">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=E6C07B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CGive+me+a+place+to+stand%2C+and+I+will+move+the+earth.%E2%80%9D%3B%E2%80%94+Archimedes+%E2%80%94">
+  <img alt="“Give me a place to stand, and I will move the earth.” — Archimedes" src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&amp;weight=500&amp;size=28&amp;duration=2500&amp;pause=400&amp;color=8A6D3B&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=false&amp;width=760&amp;height=100&amp;lines=%E2%80%9CGive+me+a+place+to+stand%2C+and+I+will+move+the+earth.%E2%80%9D%3B%E2%80%94+Archimedes+%E2%80%94">
 </picture>
 
 <br/>
